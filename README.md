@@ -1,9 +1,7 @@
 LeetCode
 ========
 
-LeetCode C++ Solutions
 
-(Notes: "&hearts;" means you need buy a book from Leetcode)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
